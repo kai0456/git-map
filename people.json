@@ -22,6 +22,17 @@
     "year": "'19"
   },
   {
+    "name": "Soso.S",
+    "iconUrl": "images/froggy.jpg",
+    "url": "//kai0456.github.io/csweb",
+    "message": "Sunny day in Emerald City",
+    "lat_long": [
+      47.608015,
+      -122.334995
+    ],
+    "year": "17"
+  },
+  {
     "name": "Ruoni",
     "iconUrl": "images/ruoni.jpg",
     "url": "//zoew.me",
